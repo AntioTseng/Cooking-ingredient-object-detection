@@ -18,6 +18,5 @@ Here are snapshots of our Cooking Ingredient Object Detection application's fron
 ![Interface](/img/yolo2.png)
 
 **Caption:**
-**Caption:**
 Embark on a culinary journey with our cutting-edge image detection feature! Select or upload a photo, and watch as the system identifies diverse ingredients. Explore the detected materials and their respective probabilities seamlessly displayed below.
 
