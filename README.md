@@ -13,9 +13,7 @@ The intuitive interface, built using the Streamlit framework, allows users to ef
 
 # Sample Frontend Screens
 Here are snapshots of our Cooking Ingredient Object Detection application's frontend, showcasing the intuitive user interface designed to enhance your culinary experience:
-![介面](/img/yolo1.png)
 
-Caption: A glimpse of the application's interface with real-time object detection on a variety of ingredients.
 ![介面](/img/yolo2.png)
 
 Caption: Another view demonstrating the seamless integration of YOLO technology for accurate ingredient identification.
