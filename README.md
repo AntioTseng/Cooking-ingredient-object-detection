@@ -15,7 +15,7 @@ The intuitive interface, built using the Streamlit framework, allows users to ef
 
 Here are snapshots of our Cooking Ingredient Object Detection application's frontend, showcasing the intuitive user interface designed to enhance your culinary experience:
 
-![Interface](/img/yolo2.png)
+![Interface](/img/yolo1.png)
 
 **Caption:**
 Embark on a culinary journey with our cutting-edge image detection feature! Select or upload a photo, and watch as the system identifies diverse ingredients. Explore the detected materials and their respective probabilities seamlessly displayed below.
